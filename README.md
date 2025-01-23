@@ -75,7 +75,7 @@ This project utilizes the following package:
 3. Run the Executable:
     ```bash
    cd Debug
-   cd ./QP-based-motion-filter
+   ./QP_based_motion_filter
 
 
 ## Source Codes
