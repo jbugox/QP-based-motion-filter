@@ -77,7 +77,6 @@ This project utilizes the following package:
    cd Debug
    ./QP_based_motion_filter
 
-
 ## Source Codes
 ### include/QP_based_motion_filter.hpp
 Have to change enum parameters in header file.  
