@@ -24,7 +24,7 @@ $$
 We solve with QP the process of finding $\tau_{n}$ closest to $\tau_{c}$ among $\tau$ satisfying the above constructs.
 
   
-$$\underset{\tau_{c}, \rho}{\text{min}}(\| \tau_{n}-\tau_{c}\| ^{2} + \rho^{T}W \rho)
+$$\underset{\tau_{c}, \rho}{\text{argmin}}(\| \tau_{n}-\tau_{c}\| ^{2} + \rho^{T}W \rho)
 $$
 
 
