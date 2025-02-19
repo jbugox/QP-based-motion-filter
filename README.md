@@ -3,7 +3,7 @@ Torque filter for manipulator for safety control.
 
 ## Foundational Theory
 ### Foundational ResearchPaper
-D Lee, D Ko, WK Chung and K Kim, "Maximal Manipulation Framework Using Quadratic Programming for a Teleoperated Robotic System with Articulated Bodies." *2022 International Conference on Robotics and Automation (ICRA)*, IEEE, 2022.
+D. Lee, D. Ko, W. K. Chung and K. Kim, "Maximal Manipulation Framework Using Quadratic Programming for a Teleoperated Robotic System with Articulated Bodies." *2022 International Conference on Robotics and Automation (ICRA)*, IEEE, 2022.
 
 ### Torque Filtering
 ![Torque filtering block diagram](images/qp_based_motion_filter.png)  
